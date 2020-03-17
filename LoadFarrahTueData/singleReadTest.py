@@ -3,6 +3,7 @@ from collections import defaultdict
 # from NovelEEG.SampleCode import loadFromJson
 import loadFromJson
 import numpy as np
+from scipy.signal import spectrogram
 
 # define path to make sure stuff doesn't get saved weird places
 os.chdir(os.getcwd())
@@ -102,4 +103,50 @@ plt.pcolormesh(t, f, np.log(Sxx))
 plt.ylabel('Frequency [Hz]')
 plt.xlabel('Time [sec]')
 plt.show()
+
+
+""" Cutting intervals and creating spectrograms """
+# Overlap in time intervals (in seconds; time intervals are 2 minutes long)
+overlap = 60
+
+dataset = []
+dataset_labels = []
+counter = 0
+for item in edfNonComp.items():
+    if counter >= 20: # Limit max dataset for now
+        break
+    raw = mne.io.read_raw_edf(item[1]['path'][0])
+
+    # set up and fit the ICA -- NOT IMPLEMENTED (THIS IS FROM TUTORIAL)
+    
+    #ica = mne.preprocessing.ICA(n_components=14, random_state=97, max_iter=800)
+    #ica.fit(raw)
+    #ica.exclude = [1, 2]  # details on how we picked these are omitted here
+    #ica.plot_properties(raw, picks=ica.exclude)
+    # Removing components below:
+    #orig_raw = raw.copy()
+    raw.load_data()
+    #ica.apply(raw)
+
+    # show some frontal channels to clearly illustrate the artifact removal
+    chs = ['TP10', 'Fz', 'P3', 'Cz', 'C4', 'TP9', 'Pz', 'P4', 'FT7',
+           'C3', 'O1', 'FT8', 'Fpz', 'O2']
+    #chan_idxs = [raw.ch_names.index(ch) for ch in chs]
+    #orig_raw.plot(order=chan_idxs, start=12, duration=4)
+    #raw.plot(order=chan_idxs, start=12, duration=4)
+
+    # only get Sxx:
+    patient = []
+    for j in range(5):
+        images = []
+        image_labels = []
+        for i in range(len(raw["data"][0])):
+         # range(len(raw["data"][0][i])//sample_freq):
+            f, t, Sxx = spectrogram(np.array(raw["data"][0][i][j*overlap*sample_freq:(j*overlap+120)*sample_freq]).flatten(), sample_freq)
+            images.append(np.log(Sxx+10e-20))
+            image_labels.append(np.array([counter, i, j]))
+        dataset.append(images)
+        dataset_labels.append(image_labels)
+    #dataset.append(patient)
+    counter += 1
 
