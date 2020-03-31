@@ -18,7 +18,8 @@ def jsonLoad(path = False):
 # define path to make sure stuff doesn't get saved weird places
 os.chdir(os.getcwd())
 saveDir = r"C:\Users\anden\PycharmProjects\NovelEEG"+"\\"  # ~~~ What is your execute path?
-farrahData = r"data_farrahtue_EEG\Original participant EEGs"+"\\"  # ~~~ What is the name of your data folder?
+# farrahData = r"data_farrahtue_EEG\Original participant EEGs"+"\\"  # ~~~ What is the name of your data folder?
+farrahData = r"data_TUH_EEG\TUH_EEG_CORPUS\artifact_dataset\01_tcp_ar\100\00010023\s002_2013_02_21"
 jsonDir = r"edfFiles.json"  # ~~~ Where is your json folder?
 farrahDataDir = saveDir + '\\' + farrahData
 
@@ -71,7 +72,8 @@ if debugLog is True:
 
 # TODO: functions in this class
 # load by finding .edf files in a path
-# load by .json
+# load by .json (CHECK)
 # save into .json
 # load annotations
 # select by flags
+# load Tensor
