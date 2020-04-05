@@ -7,12 +7,13 @@ import numpy as np
 from loadData import jsonLoad
 from scipy import signal
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 
 # define path to make sure stuff doesn't get saved weird places
 os.chdir(os.getcwd())
-saveDir = r"C:\Users\anden\PycharmProjects\NovelEEG"+"\\"  # ~~~ What is your execute path?
+saveDir = r"C:\Users\ander\Documents\DTU_data_EEG"+"\\"  # ~~~ What is your execute path?
 farrahData = r"data_farrahtue_EEG\Original participant EEGs"+"\\"  # ~~~ What is the name of your data folder?
-jsonDir = r"edfFiles.json" # ~~~ Where is your json folder?
+jsonDir = r"SampleCode\edfFiles_AndersremovedIncorrectChannelRec.json" # ~~~ Where is your json folder?
 jsonDataDir = saveDir + jsonDir
 farrahDataDir = saveDir + farrahData
 
@@ -60,55 +61,68 @@ def spectrogramMake(EEGseries=None, t0=0, tWindow=120):
     # plt.show()
     return torch.tensor(np.log(Sxx+np.finfo(float).eps)) # for np del torch.tensor
 
-def slidingWindow(edfInfo=None, tN=0, tStep=60, localSave={"sliceSave":False, "saveDir":os.getcwd()}):
-    windowEEG = defaultdict(list)
+def slidingWindow(edfInfo=None, tN=0, tStep=60, sample_freq = 128, localSave={"sliceSave":False, "saveDir":os.getcwd()}):
+    # windowEEG = defaultdict(list)
     sampleWindow = edfInfo["tWindow"]*edfInfo["fS"]
-    for i in range(0, tN, int(tStep)):
-        windowKey = "window_%i_%i" % (i, i+sampleWindow)
-        windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0=i, tWindow=sampleWindow)
+    for i in range(0, tN, int(tStep*sample_freq)):
+        # windowKey = "window_%i_%i" % (i, i+sampleWindow)
+        # windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0=i, tWindow=sampleWindow)
+        cut = spectrogramMake(edfInfo["rawData"], t0=i, tWindow=sampleWindow)
+        if localSave["sliceSave"]:
+            idDir = edfInfo["rawData"].filenames[0].split('\\')[-1].split('.')[0]
+            if not os.path.exists(saveDir + "tempData\\"):
+                os.mkdir(saveDir + "tempData\\")
+            torch.save(cut, saveDir + "tempData\\%s.pt" % (idDir+'-'+str(i))) # for np del torch.tensor
+
     if (1+tN) % int(tStep) != 0:
-        windowKey = "window_%i_%i" % (int(tN-sampleWindow), int(tN))
-        windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0 = int(tN-sampleWindow), tWindow = sampleWindow)
-    if localSave["sliceSave"]:
-        idDir = edfInfo["rawData"].filenames[0].split('\\')[-1].split('.')[0]
-        if not os.path.exists(localSave["saveDir"]):
-            os.mkdir(saveDir + "tempData\\")
-        if not os.path.exists(saveDir + "tempData\\" + idDir):
-            os.mkdir(saveDir + "tempData\\" + idDir)
-        for k,v in windowEEG.items():
-            torch.save(v, saveDir + "tempData\\%s\\%s.pt" % (idDir, k)) # for np del torch.tensor
+        # windowKey = "window_%i_%i" % (int(tN-sampleWindow), int(tN))
+        # windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0 = int(tN-sampleWindow), tWindow = sampleWindow)
+        cut = spectrogramMake(edfInfo["rawData"], t0 = int(tN-sampleWindow), tWindow = sampleWindow)
+        if localSave["sliceSave"]:
+            idDir = edfInfo["rawData"].filenames[0].split('\\')[-1].split('.')[0]
+            if not os.path.exists(saveDir + "tempData\\"):
+                os.mkdir(saveDir + "tempData\\")
+            torch.save(cut, saveDir + "tempData\\%s.pt" % (idDir+'-'+str(1+tN))) # for np del torch.tensor
     if not localSave["sliceSave"]:
         windowOut = windowEEG.copy()
     else:
         windowOut = None
     return windowOut
 
-def completePrep(tWin=120, tStep=30, localSave={"sliceSave":False, "saveDir":os.getcwd()},
+def completePrep(tWin=120, tStep=60, sample_freq = 128, localSave={"sliceSave":False, "saveDir":os.getcwd()}, # ANDERS ændret tstep fra 30 til 60
                  notchFQ=50, lpFQ=1, hpFQ=40):
-    for edf in edfDict.keys():
+    for edf in tqdm(edfDict.keys()):
         edfDict[edf] = readRawEdf(edfDict[edf], tWindow=tWin, tStep=tStep)
         pipeline(edfDict[edf]["rawData"], lpfq=lpFQ, hpfq=hpFQ, notchfq=notchFQ)
-        tLastN = edfDict[fi]["rawData"].last_samp
-        windowDict = slidingWindow(edfInfo=edfDict[edf], tN=tLastN, tStep=tStep, localSave=localSave)
-        edfDict[edf]["tensors"] = windowDict
+        tLastN = edfDict[edf]["rawData"].last_samp
+        slidingWindow(edfInfo=edfDict[edf], tN=tLastN, tStep=tStep, localSave=localSave)
+        # windowDict =
+        # edfDict[edf]["tensors"] = windowDict
     return edfDict
 
 # for fun try with andreas
 
 
-print("here")
-
 # load json to dict
 edfDefDict = jsonLoad(path=jsonDataDir)
 
 # load ALL .edf paths
-# edfDict = edfDefDict.copy()
-# for edf in edfDict:
-#     edfDict[edf] = readRawEdf(edfDict[edf])
-#     preprocessPipeline.pipeline(edfDict[edf]["rawData"])
-#     # edfDict[edf]["rawData"].plot_psd()
+edfDict = edfDefDict.copy()
+for edf in edfDict:
+    edfDict[edf] = readRawEdf(edfDict[edf])
+    # preprocessPipeline.pipeline(edfDict[edf]["rawData"])
+    # edfDict[edf]["rawData"].plot_psd()
+
+# Preprocess and save entire dataset locally
+completePrep(localSave={"sliceSave":True, "saveDir":0})
+
+
+
+
+# Old / individual preprocessing
 
 # loading several files by [list]
+"""
 fileSeveral = ["sbs2data_2018_09_01_08_04_51_328.edf",
              "sbs2data_2018_09_01_08_36_16_331.edf",
              "sbs2data_2018_09_01_08_56_49_330.edf",
@@ -120,7 +134,7 @@ for edf in fileSeveral:
     edfDict[edf] = readRawEdf(edfDict[edf])
     pipeline(edfDict[edf]["rawData"])
     # edfDict[edf]["rawData"].plot_psd()
-
+"""
 # same method for loading single file
 # fileSingle = ["sbs2data_2018_09_07_16_41_25_457.edf"]
 # edfDict2 = defaultdict(dict)
@@ -130,7 +144,7 @@ for edf in fileSeveral:
 #     pipeline(edfDict2[edf]["rawData"])
 #     edfDict2[edf]["rawData"].plot_psd()
 
-
+"""
 fi = "sbs2data_2018_09_01_09_44_21_337.edf"
 edfDict[fi]["rawData"].info
 tensorFi = spectrogramMake(edfDict[fi]["rawData"], t0=edfDict[fi]["rawData"].first_samp, tWindow=edfDict[fi]["tWindow"])
@@ -138,7 +152,7 @@ tensorFi = spectrogramMake(edfDict[fi]["rawData"], t0=edfDict[fi]["rawData"].fir
 test = slidingWindow(edfDict[fi], tN=edfDict[fi]["rawData"].last_samp,
                      tStep=edfDict[fi]["tStep"]*edfDict[fi]["fS"],
                      localSave={"sliceSave":True, "saveDir":saveDir+"fooTemp"})
-
+"""
 
 # debug mode
 # edfDefDict.clear()
