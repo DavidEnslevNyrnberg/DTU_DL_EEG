@@ -13,6 +13,8 @@ from tqdm import tqdm
 os.chdir(os.getcwd())
 saveDir = r"C:\Users\ander\Documents\DTU_data_EEG"+"\\"  # ~~~ What is your execute path?
 farrahData = r"data_farrahtue_EEG\Original participant EEGs"+"\\"  # ~~~ What is the name of your data folder?
+# Note: For the edf json file I (Anders) removed all files from the "Incorrect Channel Recordings"
+# folder in order for it to work.
 jsonDir = r"SampleCode\edfFiles_AndersremovedIncorrectChannelRec.json" # ~~~ Where is your json folder?
 jsonDataDir = saveDir + jsonDir
 farrahDataDir = saveDir + farrahData
