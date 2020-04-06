@@ -13,8 +13,6 @@ from tqdm import tqdm
 os.chdir(os.getcwd())
 saveDir = r"C:\Users\ander\Documents\DTU_data_EEG"+"\\"  # ~~~ What is your execute path?
 farrahData = r"data_farrahtue_EEG\Original participant EEGs"+"\\"  # ~~~ What is the name of your data folder?
-# Note: For the edf json file I (Anders) removed all files from the "Incorrect Channel Recordings"
-# folder in order for it to work.
 jsonDir = r"SampleCode\edfFiles_AndersremovedIncorrectChannelRec.json" # ~~~ Where is your json folder?
 jsonDataDir = saveDir + jsonDir
 farrahDataDir = saveDir + farrahData
@@ -63,10 +61,10 @@ def spectrogramMake(EEGseries=None, t0=0, tWindow=120):
     # plt.show()
     return torch.tensor(np.log(Sxx+np.finfo(float).eps)) # for np del torch.tensor
 
-def slidingWindow(edfInfo=None, tN=0, tStep=60, sample_freq = 128, localSave={"sliceSave":False, "saveDir":os.getcwd()}):
+def slidingWindow(edfInfo=None, tN=0, tStep=60, sample_freq = 128, last_frac=0, localSave={"sliceSave":False, "saveDir":os.getcwd()}):
     # windowEEG = defaultdict(list)
     sampleWindow = edfInfo["tWindow"]*edfInfo["fS"]
-    for i in range(0, tN, int(tStep*sample_freq)):
+    for i in range(0, int(tN-sampleWindow), int(tStep*sample_freq)):
         # windowKey = "window_%i_%i" % (i, i+sampleWindow)
         # windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0=i, tWindow=sampleWindow)
         cut = spectrogramMake(edfInfo["rawData"], t0=i, tWindow=sampleWindow)
@@ -76,7 +74,7 @@ def slidingWindow(edfInfo=None, tN=0, tStep=60, sample_freq = 128, localSave={"s
                 os.mkdir(saveDir + "tempData\\")
             torch.save(cut, saveDir + "tempData\\%s.pt" % (idDir+'-'+str(i))) # for np del torch.tensor
 
-    if (1+tN) % int(tStep) != 0:
+    if (1+tN) % int(sampleWindow) > sampleWindow*last_frac:
         # windowKey = "window_%i_%i" % (int(tN-sampleWindow), int(tN))
         # windowEEG[windowKey] = spectrogramMake(edfInfo["rawData"], t0 = int(tN-sampleWindow), tWindow = sampleWindow)
         cut = spectrogramMake(edfInfo["rawData"], t0 = int(tN-sampleWindow), tWindow = sampleWindow)
@@ -91,13 +89,14 @@ def slidingWindow(edfInfo=None, tN=0, tStep=60, sample_freq = 128, localSave={"s
         windowOut = None
     return windowOut
 
-def completePrep(tWin=120, tStep=60, sample_freq = 128, localSave={"sliceSave":False, "saveDir":os.getcwd()}, # ANDERS ændret tstep fra 30 til 60
+def completePrep(tWin=120, tStep=60, sample_freq = 128, last_frac=0, localSave={"sliceSave":False, "saveDir":os.getcwd()}, # ANDERS ændret tstep fra 30 til 60
                  notchFQ=50, lpFQ=1, hpFQ=40):
     for edf in tqdm(edfDict.keys()):
         edfDict[edf] = readRawEdf(edfDict[edf], tWindow=tWin, tStep=tStep)
         pipeline(edfDict[edf]["rawData"], lpfq=lpFQ, hpfq=hpFQ, notchfq=notchFQ)
         tLastN = edfDict[edf]["rawData"].last_samp
-        slidingWindow(edfInfo=edfDict[edf], tN=tLastN, tStep=tStep, localSave=localSave)
+        slidingWindow(edfInfo=edfDict[edf], tN=tLastN, tStep=tStep, sample_freq=sample_freq,
+                      last_frac=last_frac, localSave=localSave)
         # windowDict =
         # edfDict[edf]["tensors"] = windowDict
     return edfDict
