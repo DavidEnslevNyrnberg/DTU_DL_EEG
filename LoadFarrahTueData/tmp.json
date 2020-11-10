@@ -1,0 +1,2032 @@
+{
+    "00000254_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\002\\00000254\\s005_2010_11_15\\00000254_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000254_s005_t000.edf": 1
+    },
+    "00000254_s007_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\002\\00000254\\s007_2013_03_25\\00000254_s007_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000254_s007_t000.edf": 1
+    },
+    "00000297_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\002\\00000297\\s004_2012_02_28\\00000297_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000297_s004_t000.edf": 1
+    },
+    "00000458_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\004\\00000458\\s004_2003_02_12\\00000458_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000458_s004_t001.edf": 1
+    },
+    "00000630_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\006\\00000630\\s002_2003_05_28\\00000630_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000630_s002_t001.edf": 1
+    },
+    "00000647_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\006\\00000647\\s002_2009_09_21\\00000647_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000647_s002_t000.edf": 1
+    },
+    "00000715_s009_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000715\\s009_2014_08_07\\00000715_s009_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000715_s009_t000.edf": 1
+    },
+    "00000715_s009_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000715\\s009_2014_08_07\\00000715_s009_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000715_s009_t003.edf": 1
+    },
+    "00000715_s010_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000715\\s010_2014_08_07\\00000715_s010_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000715_s010_t000.edf": 1
+    },
+    "00000715_s010_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000715\\s010_2014_08_07\\00000715_s010_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000715_s010_t001.edf": 1
+    },
+    "00000715_s010_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000715\\s010_2014_08_07\\00000715_s010_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000715_s010_t002.edf": 1
+    },
+    "00000768_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\007\\00000768\\s003_2012_04_06\\00000768_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000768_s003_t000.edf": 1
+    },
+    "00000906_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\009\\00000906\\s005_2003_04_27\\00000906_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000906_s005_t000.edf": 1
+    },
+    "00000906_s016_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\009\\00000906\\s016_2012_03_01\\00000906_s016_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000906_s016_t000.edf": 1
+    },
+    "00000906_s017_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\009\\00000906\\s017_2012_03_02\\00000906_s017_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000906_s017_t000.edf": 1
+    },
+    "00000906_s018_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\009\\00000906\\s018_2013_01_22\\00000906_s018_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00000906_s018_t000.edf": 1
+    },
+    "00001154_s007_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\011\\00001154\\s007_2012_07_25\\00001154_s007_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001154_s007_t000.edf": 1
+    },
+    "00001217_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\012\\00001217\\s002_2012_09_17\\00001217_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001217_s002_t000.edf": 1
+    },
+    "00001355_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\013\\00001355\\s003_2009_12_08\\00001355_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001355_s003_t000.edf": 1
+    },
+    "00001402_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\014\\00001402\\s004_2009_12_01\\00001402_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001402_s004_t000.edf": 1
+    },
+    "00001543_s002_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\015\\00001543\\s002_2004_07_16\\00001543_s002_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001543_s002_t006.edf": 1
+    },
+    "00001981_s007_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\019\\00001981\\s007_2015_03_30\\00001981_s007_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001981_s007_t002.edf": 1
+    },
+    "00001981_s007_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\019\\00001981\\s007_2015_03_30\\00001981_s007_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001981_s007_t003.edf": 1
+    },
+    "00001981_s007_t010.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\019\\00001981\\s007_2015_03_30\\00001981_s007_t010.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001981_s007_t010.edf": 1
+    },
+    "00001981_s009_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\019\\00001981\\s009_2015_04_01\\00001981_s009_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00001981_s009_t001.edf": 1
+    },
+    "00002152_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\021\\00002152\\s002_2013_01_14\\00002152_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002152_s002_t000.edf": 1
+    },
+    "00002272_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\022\\00002272\\s002_2009_10_12\\00002272_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002272_s002_t000.edf": 1
+    },
+    "00002348_s012_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\023\\00002348\\s012_2015_07_25\\00002348_s012_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002348_s012_t005.edf": 1
+    },
+    "00002348_s013_t013.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\023\\00002348\\s013_2015_07_26\\00002348_s013_t013.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002348_s013_t013.edf": 1
+    },
+    "00002348_s014_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\023\\00002348\\s014_2015_07_27\\00002348_s014_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002348_s014_t002.edf": 1
+    },
+    "00002348_s014_t008.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\023\\00002348\\s014_2015_07_27\\00002348_s014_t008.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002348_s014_t008.edf": 1
+    },
+    "00002508_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\025\\00002508\\s002_2009_11_13\\00002508_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002508_s002_t001.edf": 1
+    },
+    "00002705_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\027\\00002705\\s003_2009_12_04\\00002705_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002705_s003_t000.edf": 1
+    },
+    "00002991_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\029\\00002991\\s003_2010_04_26\\00002991_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00002991_s003_t000.edf": 1
+    },
+    "00003008_s006_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\030\\00003008\\s006_2014_10_13\\00003008_s006_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003008_s006_t006.edf": 1
+    },
+    "00003058_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\030\\00003058\\s004_2012_11_29\\00003058_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003058_s004_t000.edf": 1
+    },
+    "00003363_s007_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\033\\00003363\\s007_2013_01_17\\00003363_s007_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003363_s007_t002.edf": 1
+    },
+    "00003367_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\033\\00003367\\s003_2010_05_11\\00003367_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003367_s003_t001.edf": 1
+    },
+    "00003437_s006_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\034\\00003437\\s006_2014_10_20\\00003437_s006_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003437_s006_t002.edf": 1
+    },
+    "00003437_s006_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\034\\00003437\\s006_2014_10_20\\00003437_s006_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003437_s006_t004.edf": 1
+    },
+    "00003437_s006_t009.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\034\\00003437\\s006_2014_10_20\\00003437_s006_t009.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003437_s006_t009.edf": 1
+    },
+    "00003465_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\034\\00003465\\s004_2010_11_08\\00003465_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003465_s004_t001.edf": 1
+    },
+    "00003573_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\035\\00003573\\s003_2013_05_18\\00003573_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00003573_s003_t000.edf": 1
+    },
+    "00004526_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\045\\00004526\\s003_2009_09_15\\00004526_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00004526_s003_t001.edf": 1
+    },
+    "00004526_s006_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\045\\00004526\\s006_2010_07_27\\00004526_s006_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00004526_s006_t001.edf": 1
+    },
+    "00004586_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\045\\00004586\\s002_2009_10_07\\00004586_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00004586_s002_t001.edf": 1
+    },
+    "00004625_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\046\\00004625\\s003_2013_02_25\\00004625_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00004625_s003_t001.edf": 1
+    },
+    "00005230_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\052\\00005230\\s002_2010_09_07\\00005230_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005230_s002_t000.edf": 1
+    },
+    "00005230_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\052\\00005230\\s003_2012_02_28\\00005230_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005230_s003_t000.edf": 1
+    },
+    "00005276_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\052\\00005276\\s002_2011_03_04\\00005276_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005276_s002_t000.edf": 1
+    },
+    "00005394_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\053\\00005394\\s001_2009_11_09\\00005394_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005394_s001_t001.edf": 1
+    },
+    "00005400_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005400\\s001_2009_11_13\\00005400_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005400_s001_t001.edf": 1
+    },
+    "00005412_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005412\\s001_2009_10_29\\00005412_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005412_s001_t000.edf": 1
+    },
+    "00005427_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005427\\s003_2012_01_05\\00005427_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005427_s003_t000.edf": 1
+    },
+    "00005457_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005457\\s001_2011_12_05\\00005457_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005457_s001_t000.edf": 1
+    },
+    "00005458_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005458\\s001_2011_12_05\\00005458_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005458_s001_t000.edf": 1
+    },
+    "00005462_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\054\\00005462\\s004_2012_12_17\\00005462_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005462_s004_t000.edf": 1
+    },
+    "00005649_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\056\\00005649\\s002_2010_06_03\\00005649_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005649_s002_t000.edf": 1
+    },
+    "00005740_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\057\\00005740\\s003_2014_10_27\\00005740_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005740_s003_t000.edf": 1
+    },
+    "00005740_s008_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\057\\00005740\\s008_2014_10_28\\00005740_s008_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005740_s008_t000.edf": 1
+    },
+    "00005740_s008_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\057\\00005740\\s008_2014_10_28\\00005740_s008_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005740_s008_t002.edf": 1
+    },
+    "00005932_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\059\\00005932\\s004_2013_03_14\\00005932_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00005932_s004_t000.edf": 1
+    },
+    "00006052_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\060\\00006052\\s001_2009_10_08\\00006052_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006052_s001_t000.edf": 1
+    },
+    "00006078_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\060\\00006078\\s001_2009_10_26\\00006078_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006078_s001_t001.edf": 1
+    },
+    "00006091_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\060\\00006091\\s002_2010_05_05\\00006091_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006091_s002_t001.edf": 1
+    },
+    "00006091_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\060\\00006091\\s004_2013_10_07\\00006091_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006091_s004_t000.edf": 1
+    },
+    "00006096_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\060\\00006096\\s001_2009_10_28\\00006096_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006096_s001_t000.edf": 1
+    },
+    "00006224_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\062\\00006224\\s002_2010_01_06\\00006224_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006224_s002_t001.edf": 1
+    },
+    "00006319_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\063\\00006319\\s001_2009_11_20\\00006319_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006319_s001_t001.edf": 1
+    },
+    "00006440_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006440\\s001_2010_04_17\\00006440_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006440_s001_t001.edf": 1
+    },
+    "00006440_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006440\\s002_2010_04_17\\00006440_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006440_s002_t000.edf": 1
+    },
+    "00006440_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006440\\s003_2010_04_18\\00006440_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006440_s003_t000.edf": 1
+    },
+    "00006440_s005_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006440\\s005_2010_04_19\\00006440_s005_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006440_s005_t001.edf": 1
+    },
+    "00006440_s007_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006440\\s007_2010_04_19\\00006440_s007_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006440_s007_t001.edf": 1
+    },
+    "00006448_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006448\\s001_2010_05_17\\00006448_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006448_s001_t001.edf": 1
+    },
+    "00006452_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006452\\s001_2010_05_21\\00006452_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006452_s001_t001.edf": 1
+    },
+    "00006462_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006462\\s002_2010_06_11\\00006462_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006462_s002_t001.edf": 1
+    },
+    "00006479_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\064\\00006479\\s001_2010_05_05\\00006479_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006479_s001_t000.edf": 1
+    },
+    "00006507_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006507\\s004_2010_02_23\\00006507_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006507_s004_t000.edf": 1
+    },
+    "00006510_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006510\\s003_2010_11_04\\00006510_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006510_s003_t001.edf": 1
+    },
+    "00006514_s028_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006514\\s028_2010_06_30\\00006514_s028_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006514_s028_t000.edf": 1
+    },
+    "00006514_s033_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006514\\s033_2010_08_14\\00006514_s033_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006514_s033_t000.edf": 1
+    },
+    "00006520_s013_t012.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006520\\s013_2012_05_09\\00006520_s013_t012.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006520_s013_t012.edf": 1
+    },
+    "00006520_s013_t016.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006520\\s013_2012_05_09\\00006520_s013_t016.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006520_s013_t016.edf": 1
+    },
+    "00006531_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006531\\s001_2010_09_05\\00006531_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006531_s001_t000.edf": 1
+    },
+    "00006531_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006531\\s002_2010_09_09\\00006531_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006531_s002_t000.edf": 1
+    },
+    "00006531_s003_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006531\\s003_2010_09_20\\00006531_s003_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006531_s003_t002.edf": 1
+    },
+    "00006531_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006531\\s004_2011_11_15\\00006531_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006531_s004_t000.edf": 1
+    },
+    "00006535_s003_t012.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s003_2012_07_16\\00006535_s003_t012.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s003_t012.edf": 1
+    },
+    "00006535_s004_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s004_2012_07_17\\00006535_s004_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s004_t004.edf": 1
+    },
+    "00006535_s004_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s004_2012_07_17\\00006535_s004_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s004_t005.edf": 1
+    },
+    "00006535_s004_t008.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s004_2012_07_17\\00006535_s004_t008.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s004_t008.edf": 1
+    },
+    "00006535_s005_t007.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s005_2012_07_18\\00006535_s005_t007.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s005_t007.edf": 1
+    },
+    "00006535_s006_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s006_2012_07_19\\00006535_s006_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s006_t006.edf": 1
+    },
+    "00006535_s006_t007.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006535\\s006_2012_07_19\\00006535_s006_t007.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006535_s006_t007.edf": 1
+    },
+    "00006566_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006566\\s001_2010_04_15\\00006566_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006566_s001_t000.edf": 1
+    },
+    "00006598_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\065\\00006598\\s001_2010_03_22\\00006598_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006598_s001_t000.edf": 1
+    },
+    "00006611_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\066\\00006611\\s001_2010_03_02\\00006611_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006611_s001_t000.edf": 1
+    },
+    "00006726_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\067\\00006726\\s001_2010_06_25\\00006726_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006726_s001_t001.edf": 1
+    },
+    "00006746_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\067\\00006746\\s004_2010_12_06\\00006746_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006746_s004_t000.edf": 1
+    },
+    "00006811_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006811\\s001_2010_02_12\\00006811_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006811_s001_t000.edf": 1
+    },
+    "00006811_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006811\\s002_2010_02_12\\00006811_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006811_s002_t000.edf": 1
+    },
+    "00006811_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006811\\s005_2011_10_18\\00006811_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006811_s005_t000.edf": 1
+    },
+    "00006822_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006822\\s001_2010_07_29\\00006822_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006822_s001_t001.edf": 1
+    },
+    "00006833_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006833\\s001_2010_08_04\\00006833_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006833_s001_t001.edf": 1
+    },
+    "00006835_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006835\\s001_2010_08_02\\00006835_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006835_s001_t001.edf": 1
+    },
+    "00006836_s005_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006836\\s005_2012_12_13\\00006836_s005_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006836_s005_t001.edf": 1
+    },
+    "00006847_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006847\\s001_2010_08_06\\00006847_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006847_s001_t000.edf": 1
+    },
+    "00006852_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006852\\s001_2010_08_06\\00006852_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006852_s001_t000.edf": 1
+    },
+    "00006880_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006880\\s001_2010_09_14\\00006880_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006880_s001_t000.edf": 1
+    },
+    "00006880_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006880\\s002_2012_08_02\\00006880_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006880_s002_t000.edf": 1
+    },
+    "00006880_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006880\\s003_2012_09_04\\00006880_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006880_s003_t000.edf": 1
+    },
+    "00006885_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\068\\00006885\\s001_2010_09_18\\00006885_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006885_s001_t001.edf": 1
+    },
+    "00006906_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\069\\00006906\\s001_2010_09_09\\00006906_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006906_s001_t001.edf": 1
+    },
+    "00006909_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\069\\00006909\\s001_2010_08_25\\00006909_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006909_s001_t000.edf": 1
+    },
+    "00006931_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\069\\00006931\\s001_2010_01_19\\00006931_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00006931_s001_t001.edf": 1
+    },
+    "00007020_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\070\\00007020\\s001_2010_01_18\\00007020_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007020_s001_t001.edf": 1
+    },
+    "00007078_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\070\\00007078\\s001_2010_01_25\\00007078_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007078_s001_t000.edf": 1
+    },
+    "00007182_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\071\\00007182\\s001_2010_10_18\\00007182_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007182_s001_t001.edf": 1
+    },
+    "00007193_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\071\\00007193\\s001_2010_10_21\\00007193_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007193_s001_t000.edf": 1
+    },
+    "00007229_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\072\\00007229\\s001_2010_11_02\\00007229_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007229_s001_t000.edf": 1
+    },
+    "00007248_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\072\\00007248\\s001_2010_05_05\\00007248_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007248_s001_t001.edf": 1
+    },
+    "00007279_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\072\\00007279\\s001_2010_12_01\\00007279_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007279_s001_t000.edf": 1
+    },
+    "00007372_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\073\\00007372\\s001_2010_05_19\\00007372_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007372_s001_t000.edf": 1
+    },
+    "00007383_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\073\\00007383\\s001_2010_02_25\\00007383_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007383_s001_t001.edf": 1
+    },
+    "00007441_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\074\\00007441\\s001_2010_10_08\\00007441_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007441_s001_t000.edf": 1
+    },
+    "00007481_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\074\\00007481\\s001_2010_12_03\\00007481_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007481_s001_t001.edf": 1
+    },
+    "00007481_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\074\\00007481\\s002_2013_05_16\\00007481_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007481_s002_t000.edf": 1
+    },
+    "00007502_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\075\\00007502\\s002_2011_05_09\\00007502_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007502_s002_t000.edf": 1
+    },
+    "00007575_s006_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\075\\00007575\\s006_2015_06_15\\00007575_s006_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007575_s006_t006.edf": 1
+    },
+    "00007575_s006_t008.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\075\\00007575\\s006_2015_06_15\\00007575_s006_t008.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007575_s006_t008.edf": 1
+    },
+    "00007647_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\076\\00007647\\s001_2011_02_07\\00007647_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007647_s001_t001.edf": 1
+    },
+    "00007679_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\076\\00007679\\s001_2011_01_12\\00007679_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007679_s001_t000.edf": 1
+    },
+    "00007724_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\077\\00007724\\s001_2011_03_22\\00007724_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007724_s001_t001.edf": 1
+    },
+    "00007755_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\077\\00007755\\s001_2011_05_12\\00007755_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007755_s001_t000.edf": 1
+    },
+    "00007793_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\077\\00007793\\s001_2011_05_27\\00007793_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007793_s001_t001.edf": 1
+    },
+    "00007823_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\078\\00007823\\s001_2011_05_26\\00007823_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007823_s001_t001.edf": 1
+    },
+    "00007824_s012_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\078\\00007824\\s012_2014_06_01\\00007824_s012_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007824_s012_t002.edf": 1
+    },
+    "00007852_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\078\\00007852\\s001_2011_06_02\\00007852_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007852_s001_t000.edf": 1
+    },
+    "00007870_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\078\\00007870\\s001_2011_07_05\\00007870_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007870_s001_t001.edf": 1
+    },
+    "00007920_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\079\\00007920\\s001_2011_06_22\\00007920_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007920_s001_t000.edf": 1
+    },
+    "00007937_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\079\\00007937\\s002_2013_03_18\\00007937_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007937_s002_t001.edf": 1
+    },
+    "00007937_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\079\\00007937\\s003_2015_04_01\\00007937_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007937_s003_t000.edf": 1
+    },
+    "00007981_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\079\\00007981\\s001_2010_11_29\\00007981_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00007981_s001_t001.edf": 1
+    },
+    "00008004_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\080\\00008004\\s001_2011_04_29\\00008004_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008004_s001_t000.edf": 1
+    },
+    "00008044_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\080\\00008044\\s001_2011_03_23\\00008044_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008044_s001_t000.edf": 1
+    },
+    "00008092_s006_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\080\\00008092\\s006_2013_06_01\\00008092_s006_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008092_s006_t000.edf": 1
+    },
+    "00008092_s006_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\080\\00008092\\s006_2013_06_01\\00008092_s006_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008092_s006_t001.edf": 1
+    },
+    "00008092_s007_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\080\\00008092\\s007_2013_06_01\\00008092_s007_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008092_s007_t000.edf": 1
+    },
+    "00008156_s010_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\081\\00008156\\s010_2015_08_27\\00008156_s010_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008156_s010_t006.edf": 1
+    },
+    "00008181_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\081\\00008181\\s003_2011_10_13\\00008181_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008181_s003_t001.edf": 1
+    },
+    "00008181_s003_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\081\\00008181\\s003_2011_10_13\\00008181_s003_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008181_s003_t002.edf": 1
+    },
+    "00008181_s003_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\081\\00008181\\s003_2011_10_13\\00008181_s003_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008181_s003_t004.edf": 1
+    },
+    "00008181_s003_t010.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\081\\00008181\\s003_2011_10_13\\00008181_s003_t010.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008181_s003_t010.edf": 1
+    },
+    "00008206_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008206\\s001_2011_10_19\\00008206_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008206_s001_t000.edf": 1
+    },
+    "00008210_s014_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008210\\s014_2015_05_07\\00008210_s014_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008210_s014_t001.edf": 1
+    },
+    "00008295_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s001_2011_11_07\\00008295_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s001_t001.edf": 1
+    },
+    "00008295_s006_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s006_2012_05_09\\00008295_s006_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s006_t001.edf": 1
+    },
+    "00008295_s006_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s006_2012_05_09\\00008295_s006_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s006_t004.edf": 1
+    },
+    "00008295_s006_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s006_2012_05_09\\00008295_s006_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s006_t005.edf": 1
+    },
+    "00008295_s010_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s010_2012_07_25\\00008295_s010_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s010_t005.edf": 1
+    },
+    "00008295_s012_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s012_2012_07_27\\00008295_s012_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s012_t006.edf": 1
+    },
+    "00008295_s013_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\082\\00008295\\s013_2013_02_23\\00008295_s013_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008295_s013_t001.edf": 1
+    },
+    "00008303_s004_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\083\\00008303\\s004_2011_11_24\\00008303_s004_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008303_s004_t005.edf": 1
+    },
+    "00008444_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008444\\s001_2011_09_28\\00008444_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008444_s001_t001.edf": 1
+    },
+    "00008466_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008466\\s001_2012_02_09\\00008466_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008466_s001_t000.edf": 1
+    },
+    "00008476_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008476\\s001_2012_10_21\\00008476_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008476_s001_t000.edf": 1
+    },
+    "00008477_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008477\\s001_2012_11_29\\00008477_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008477_s001_t000.edf": 1
+    },
+    "00008477_s002_t007.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008477\\s002_2012_11_29\\00008477_s002_t007.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008477_s002_t007.edf": 1
+    },
+    "00008489_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\084\\00008489\\s001_2012_01_04\\00008489_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008489_s001_t000.edf": 1
+    },
+    "00008527_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\085\\00008527\\s001_2011_12_31\\00008527_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008527_s001_t000.edf": 1
+    },
+    "00008530_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\085\\00008530\\s001_2012_01_04\\00008530_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008530_s001_t000.edf": 1
+    },
+    "00008563_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\085\\00008563\\s001_2012_01_16\\00008563_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008563_s001_t000.edf": 1
+    },
+    "00008582_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\085\\00008582\\s001_2012_02_09\\00008582_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008582_s001_t000.edf": 1
+    },
+    "00008615_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\086\\00008615\\s001_2012_01_13\\00008615_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008615_s001_t000.edf": 1
+    },
+    "00008634_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\086\\00008634\\s001_2012_02_29\\00008634_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008634_s001_t000.edf": 1
+    },
+    "00008723_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008723\\s001_2012_04_16\\00008723_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008723_s001_t000.edf": 1
+    },
+    "00008737_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008737\\s001_2012_03_26\\00008737_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008737_s001_t001.edf": 1
+    },
+    "00008738_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008738\\s004_2013_06_04\\00008738_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008738_s004_t001.edf": 1
+    },
+    "00008738_s004_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008738\\s004_2013_06_04\\00008738_s004_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008738_s004_t006.edf": 1
+    },
+    "00008738_s005_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008738\\s005_2013_06_05\\00008738_s005_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008738_s005_t003.edf": 1
+    },
+    "00008738_s006_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008738\\s006_2013_06_06\\00008738_s006_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008738_s006_t000.edf": 1
+    },
+    "00008760_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008760\\s001_2012_04_23\\00008760_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008760_s001_t001.edf": 1
+    },
+    "00008767_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008767\\s001_2012_05_21\\00008767_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008767_s001_t001.edf": 1
+    },
+    "00008770_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008770\\s001_2012_05_23\\00008770_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008770_s001_t001.edf": 1
+    },
+    "00008773_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008773\\s001_2012_05_21\\00008773_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008773_s001_t000.edf": 1
+    },
+    "00008783_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\087\\00008783\\s001_2012_05_01\\00008783_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008783_s001_t000.edf": 1
+    },
+    "00008829_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\088\\00008829\\s001_2012_03_28\\00008829_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008829_s001_t001.edf": 1
+    },
+    "00008829_s001_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\088\\00008829\\s001_2012_03_28\\00008829_s001_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008829_s001_t002.edf": 1
+    },
+    "00008830_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\088\\00008830\\s001_2012_05_22\\00008830_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008830_s001_t000.edf": 1
+    },
+    "00008959_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\089\\00008959\\s001_2012_07_12\\00008959_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008959_s001_t000.edf": 1
+    },
+    "00008971_s001_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\089\\00008971\\s001_2012_07_17\\00008971_s001_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008971_s001_t003.edf": 1
+    },
+    "00008971_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\089\\00008971\\s003_2013_02_07\\00008971_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008971_s003_t001.edf": 1
+    },
+    "00008971_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\089\\00008971\\s005_2013_03_04\\00008971_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00008971_s005_t000.edf": 1
+    },
+    "00009030_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\090\\00009030\\s001_2012_07_02\\00009030_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009030_s001_t000.edf": 1
+    },
+    "00009050_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\090\\00009050\\s004_2012_09_23\\00009050_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009050_s004_t001.edf": 1
+    },
+    "00009053_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\090\\00009053\\s001_2012_06_25\\00009053_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009053_s001_t000.edf": 1
+    },
+    "00009089_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\090\\00009089\\s001_2012_08_24\\00009089_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009089_s001_t000.edf": 1
+    },
+    "00009177_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\091\\00009177\\s001_2012_05_02\\00009177_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009177_s001_t000.edf": 1
+    },
+    "00009195_s001_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\091\\00009195\\s001_2012_06_04\\00009195_s001_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009195_s001_t002.edf": 1
+    },
+    "00009208_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009208\\s001_2012_09_06\\00009208_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009208_s001_t000.edf": 1
+    },
+    "00009232_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s001_2012_10_10\\00009232_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s001_t001.edf": 1
+    },
+    "00009232_s002_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s002_2012_10_10\\00009232_s002_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s002_t002.edf": 1
+    },
+    "00009232_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t001.edf": 1
+    },
+    "00009232_s004_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t004.edf": 1
+    },
+    "00009232_s004_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t005.edf": 1
+    },
+    "00009232_s004_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t006.edf": 1
+    },
+    "00009232_s004_t007.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t007.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t007.edf": 1
+    },
+    "00009232_s004_t008.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t008.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t008.edf": 1
+    },
+    "00009232_s004_t009.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s004_2012_10_11\\00009232_s004_t009.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s004_t009.edf": 1
+    },
+    "00009232_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009232\\s005_2012_10_19\\00009232_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009232_s005_t000.edf": 1
+    },
+    "00009244_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009244\\s001_2012_03_19\\00009244_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009244_s001_t000.edf": 1
+    },
+    "00009265_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009265\\s001_2012_03_09\\00009265_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009265_s001_t000.edf": 1
+    },
+    "00009282_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\092\\00009282\\s001_2012_08_07\\00009282_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009282_s001_t000.edf": 1
+    },
+    "00009320_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009320\\s001_2012_08_01\\00009320_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009320_s001_t000.edf": 1
+    },
+    "00009335_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009335\\s002_2013_03_05\\00009335_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009335_s002_t000.edf": 1
+    },
+    "00009340_s001_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009340\\s001_2012_10_04\\00009340_s001_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009340_s001_t002.edf": 1
+    },
+    "00009356_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009356\\s001_2012_06_01\\00009356_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009356_s001_t000.edf": 1
+    },
+    "00009362_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009362\\s001_2012_08_24\\00009362_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009362_s001_t001.edf": 1
+    },
+    "00009369_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009369\\s002_2012_09_21\\00009369_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009369_s002_t000.edf": 1
+    },
+    "00009397_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\093\\00009397\\s001_2012_09_10\\00009397_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009397_s001_t000.edf": 1
+    },
+    "00009411_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009411\\s001_2012_09_11\\00009411_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009411_s001_t000.edf": 1
+    },
+    "00009413_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009413\\s001_2012_10_03\\00009413_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009413_s001_t001.edf": 1
+    },
+    "00009414_s005_t006.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009414\\s005_2013_05_21\\00009414_s005_t006.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009414_s005_t006.edf": 1
+    },
+    "00009417_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009417\\s001_2012_08_21\\00009417_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009417_s001_t001.edf": 1
+    },
+    "00009431_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009431\\s002_2012_06_15\\00009431_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009431_s002_t000.edf": 1
+    },
+    "00009434_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009434\\s001_2012_08_28\\00009434_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009434_s001_t000.edf": 1
+    },
+    "00009434_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009434\\s002_2013_03_15\\00009434_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009434_s002_t000.edf": 1
+    },
+    "00009445_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009445\\s001_2012_09_18\\00009445_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009445_s001_t000.edf": 1
+    },
+    "00009458_s001_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009458\\s001_2012_10_17\\00009458_s001_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009458_s001_t003.edf": 1
+    },
+    "00009485_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009485\\s001_2012_10_19\\00009485_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009485_s001_t000.edf": 1
+    },
+    "00009485_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009485\\s002_2013_04_08\\00009485_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009485_s002_t000.edf": 1
+    },
+    "00009498_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\094\\00009498\\s001_2012_12_04\\00009498_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009498_s001_t000.edf": 1
+    },
+    "00009501_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\095\\00009501\\s001_2012_11_26\\00009501_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009501_s001_t000.edf": 1
+    },
+    "00009514_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\095\\00009514\\s001_2012_12_04\\00009514_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009514_s001_t000.edf": 1
+    },
+    "00009542_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\095\\00009542\\s001_2012_11_08\\00009542_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009542_s001_t000.edf": 1
+    },
+    "00009574_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\095\\00009574\\s001_2012_10_18\\00009574_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009574_s001_t000.edf": 1
+    },
+    "00009603_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009603\\s001_2012_11_21\\00009603_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009603_s001_t000.edf": 1
+    },
+    "00009623_s008_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009623\\s008_2012_10_22\\00009623_s008_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009623_s008_t004.edf": 1
+    },
+    "00009623_s008_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009623\\s008_2012_10_22\\00009623_s008_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009623_s008_t005.edf": 1
+    },
+    "00009623_s010_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009623\\s010_2012_10_30\\00009623_s010_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009623_s010_t000.edf": 1
+    },
+    "00009630_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009630\\s001_2012_11_19\\00009630_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009630_s001_t001.edf": 1
+    },
+    "00009630_s001_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009630\\s001_2012_11_19\\00009630_s001_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009630_s001_t002.edf": 1
+    },
+    "00009663_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009663\\s002_2012_11_15\\00009663_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009663_s002_t001.edf": 1
+    },
+    "00009668_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009668\\s003_2012_12_07\\00009668_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009668_s003_t000.edf": 1
+    },
+    "00009693_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\096\\00009693\\s001_2011_12_14\\00009693_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009693_s001_t000.edf": 1
+    },
+    "00009800_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\098\\00009800\\s001_2012_03_19\\00009800_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009800_s001_t000.edf": 1
+    },
+    "00009820_s002_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\098\\00009820\\s002_2013_04_11\\00009820_s002_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009820_s002_t002.edf": 1
+    },
+    "00009906_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\099\\00009906\\s002_2013_04_18\\00009906_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009906_s002_t000.edf": 1
+    },
+    "00009932_s008_t007.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\099\\00009932\\s008_2014_10_04\\00009932_s008_t007.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009932_s008_t007.edf": 1
+    },
+    "00009939_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\099\\00009939\\s001_2013_03_01\\00009939_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009939_s001_t000.edf": 1
+    },
+    "00009994_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\099\\00009994\\s001_2013_02_04\\00009994_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009994_s001_t000.edf": 1
+    },
+    "00009994_s008_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\099\\00009994\\s008_2013_03_15\\00009994_s008_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00009994_s008_t002.edf": 1
+    },
+    "00010003_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010003\\s001_2013_02_18\\00010003_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010003_s001_t000.edf": 1
+    },
+    "00010021_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010021\\s001_2013_03_30\\00010021_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010021_s001_t000.edf": 1
+    },
+    "00010023_s002_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010023\\s002_2013_02_21\\00010023_s002_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010023_s002_t005.edf": 1
+    },
+    "00010024_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010024\\s001_2013_02_18\\00010024_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010024_s001_t000.edf": 1
+    },
+    "00010041_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010041\\s001_2013_03_22\\00010041_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010041_s001_t000.edf": 1
+    },
+    "00010079_s004_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010079\\s004_2013_07_02\\00010079_s004_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010079_s004_t002.edf": 1
+    },
+    "00010079_s004_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\100\\00010079\\s004_2013_07_02\\00010079_s004_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010079_s004_t004.edf": 1
+    },
+    "00010135_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010135\\s002_2013_02_19\\00010135_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010135_s002_t000.edf": 1
+    },
+    "00010157_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010157\\s001_2013_02_12\\00010157_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010157_s001_t000.edf": 1
+    },
+    "00010158_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s001_2013_01_14\\00010158_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s001_t001.edf": 1
+    },
+    "00010158_s003_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s003_2013_01_14\\00010158_s003_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s003_t000.edf": 1
+    },
+    "00010158_s003_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s003_2013_01_14\\00010158_s003_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s003_t001.edf": 1
+    },
+    "00010158_s003_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s003_2013_01_14\\00010158_s003_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s003_t002.edf": 1
+    },
+    "00010158_s004_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s004_2013_01_15\\00010158_s004_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s004_t001.edf": 1
+    },
+    "00010158_s005_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\101\\00010158\\s005_2013_01_16\\00010158_s005_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010158_s005_t000.edf": 1
+    },
+    "00010209_s006_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\102\\00010209\\s006_2013_08_13\\00010209_s006_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010209_s006_t000.edf": 1
+    },
+    "00010209_s006_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\102\\00010209\\s006_2013_08_13\\00010209_s006_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010209_s006_t004.edf": 1
+    },
+    "00010212_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\102\\00010212\\s001_2013_01_23\\00010212_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010212_s001_t000.edf": 1
+    },
+    "00010267_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\102\\00010267\\s001_2013_01_04\\00010267_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010267_s001_t000.edf": 1
+    },
+    "00010340_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\103\\00010340\\s001_2013_05_23\\00010340_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010340_s001_t000.edf": 1
+    },
+    "00010418_s002_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010418\\s002_2013_06_07\\00010418_s002_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010418_s002_t003.edf": 1
+    },
+    "00010418_s008_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010418\\s008_2013_06_14\\00010418_s008_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010418_s008_t000.edf": 1
+    },
+    "00010418_s009_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010418\\s009_2013_06_17\\00010418_s009_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010418_s009_t000.edf": 1
+    },
+    "00010421_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010421\\s001_2013_06_14\\00010421_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010421_s001_t000.edf": 1
+    },
+    "00010423_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010423\\s001_2013_06_17\\00010423_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010423_s001_t001.edf": 1
+    },
+    "00010453_s002_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010453\\s002_2013_07_24\\00010453_s002_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010453_s002_t001.edf": 1
+    },
+    "00010467_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010467\\s001_2013_06_27\\00010467_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010467_s001_t000.edf": 1
+    },
+    "00010489_s008_t004.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\104\\00010489\\s008_2013_07_13\\00010489_s008_t004.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010489_s008_t004.edf": 1
+    },
+    "00010551_s001_t001.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010551\\s001_2013_07_24\\00010551_s001_t001.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010551_s001_t001.edf": 1
+    },
+    "00010551_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010551\\s002_2013_07_24\\00010551_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010551_s002_t000.edf": 1
+    },
+    "00010551_s002_t003.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010551\\s002_2013_07_24\\00010551_s002_t003.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010551_s002_t003.edf": 1
+    },
+    "00010551_s002_t005.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010551\\s002_2013_07_24\\00010551_s002_t005.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010551_s002_t005.edf": 1
+    },
+    "00010563_s004_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010563\\s004_2013_07_18\\00010563_s004_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010563_s004_t000.edf": 1
+    },
+    "00010586_s001_t002.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010586\\s001_2013_08_06\\00010586_s001_t002.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010586_s001_t002.edf": 1
+    },
+    "00010591_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010591\\s001_2013_08_08\\00010591_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010591_s001_t000.edf": 1
+    },
+    "00010591_s002_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\105\\00010591\\s002_2013_08_08\\00010591_s002_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010591_s002_t000.edf": 1
+    },
+    "00010748_s001_t000.edf": {
+        "path": [
+            "data_TUH_EEG\\TUH_EEG_CORPUS\\artifact_dataset\\01_tcp_ar\\107\\00010748\\s001_2013_09_19\\00010748_s001_t000.edf"
+        ],
+        "deathFlag": false,
+        "Files named 00010748_s001_t000.edf": 1
+    }
+}
