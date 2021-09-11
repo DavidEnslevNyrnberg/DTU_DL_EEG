@@ -51,7 +51,7 @@ for edf in file_selected: #TUAR_data:
 
     # initialize hierarchical dict
     proc_subject = subjects[subject_ID][edf]
-    proc_subject = readRawEdf(proc_subject, saveDir=save_dir, tWindow=10, tStep=10*.5,
+    proc_subject = readRawEdf(proc_subject, saveDir=save_dir, tWindow=1, tStep=1*.25,
                               read_raw_edf_param={'preload': True}) #,
                                                   # "stim_channel": ['EEG ROC-REF', 'EEG LOC-REF', 'EEG EKG1-REF',
                                                   #                  'EEG T1-REF', 'EEG T2-REF', 'PHOTIC-REF', 'IBI',
